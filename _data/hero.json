@@ -1,0 +1,17 @@
+[
+    {
+        "img": "scenesynth",
+        "caption": "Students in Daniel Ritchie's lab created a data-driven generative model that can synthesize new virtual bedrooms and other types of 3D indoor scenes.",
+        "link_target": "https://arxiv.org/abs/1811.12463"
+    },
+    {
+        "img": "attnguided",
+        "caption": "Students in James Tompkin's lab trained a neural network to transmogrify images of animals without altering the image background.",
+        "link_target": "https://arxiv.org/abs/1806.02311"
+    },
+    {
+        "img": "shapeassembly",
+        "caption": "Students in Daniel Ritchie's lab trained a neural network to write programs that generate structured 3D shapes, such as chairs.",
+        "link_target": "https://rkjones4.github.io/shapeAssembly.html"
+    }
+]
