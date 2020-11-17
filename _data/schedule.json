@@ -1,22 +1,18 @@
 [
     {
-        "date": "November XX",
+        "date": "November 18",
         "name": "Applications open"
     },
     {
-        "date": "December XX",
+        "date": "January 1",
         "name": "Application deadline"
     },
     {
-        "date": "January XX",
+        "date": "January 15",
         "name": "Admission decisions announced"
     },
     {
-        "date": "January XX",
-        "name": "Participants paired with faculty and grad student mentors"
-    },
-    {
-        "date": "January XX",
+        "date": "January 29",
         "name": "Program kick-off meeting"
     },
     {
@@ -36,7 +32,7 @@
         "name": "Observe comps defense<br/>Observe thesis defense"
     },
     {
-        "date": "May XX",
+        "date": "May 5",
         "name": "Participate in Brown CS Undergraduate Research Symposium"
     }
 ]

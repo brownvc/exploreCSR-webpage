@@ -10,13 +10,18 @@
         "homepage": "https://dritchie.github.io"
     },
     {
+        "name": "Amy Greenwald",
+        "photo_id": "amy",
+        "homepage": "http://cs.brown.edu/people/faculty/amy/"
+    },
+    {
         "name": "Jeff Huang",
         "photo_id": "jeff",
         "homepage": "https://jeffhuang.com"
     },
     {
-        "name": "Amy Greenwald",
-        "photo_id": "amy",
-        "homepage": "http://cs.brown.edu/people/faculty/amy/"
+        "name": "Srinath Sridhar",
+        "photo_id": "srinath",
+        "homepage": "https://srinathsridhar.com"
     }
 ]
