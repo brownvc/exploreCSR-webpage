@@ -383,3 +383,9 @@ button.sort.desc .caret { display:inline-block; }
 	padding-top: 10px;
 	padding-bottom: 10px;
 }
+
+/*---------------------------------------------------------------*/
+
+.faqquestion {
+	font-weight: bold;
+}

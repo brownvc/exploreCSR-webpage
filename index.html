@@ -20,6 +20,7 @@ layout: default
                             <a class="dropdown-item" href="#research">Recent Research Projects</a>
                             <a class="dropdown-item" href="#schedule">Tentative Program Schedule</a>
                             <a class="dropdown-item" href="#apply">How to Apply</a>
+                            <a class="dropdown-item" href="#faq">FAQ</a>
                             <a class="dropdown-item" href="#contact">Contact Us</a>
                         </div>
                     </li>
@@ -225,13 +226,30 @@ layout: default
     </p>
 </div>
 
+<div id='faq-section' class='mainitem'>
+    <div class='anchor'>
+        <a name='faq'> </a>
+        <div class='mainheader'>FAQ</div>
+    </div>
+    <ul>
+        {% for qs in site.data.faq %}
+        <li>
+            <div class='faqquestion'>
+            {{ qs.question }}
+            </div>
+            {{ qs.answer }}
+        </li>
+        {% endfor %}
+    </ul>
+</div>
+
 <div id='contact-section' class='mainitem'>
     <div class='anchor'>
         <a name='contact'> </a>
         <div class='mainheader'>Contact Us</div>
     </div>
     <p>
-        Questions about the program? Send us email at <a href='mailto:explorecsr@lists.cs.brown.edu'>explorecsr@lists.cs.brown.edu</a>.
+        Any further questions about the program? Send us email at <a href='mailto:explorecsr@lists.cs.brown.edu'>explorecsr@lists.cs.brown.edu</a>.
     </p>
 </div>
 

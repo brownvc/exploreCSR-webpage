@@ -1,0 +1,42 @@
+[
+    {
+        "question": "I am an undergraduate student in my first/second/third/fourth year [pick as appropriate]. Am I eligible to apply?",
+        "answer": "Yes!"
+    },
+    {
+        "question": "I am an undergraduate student in my final year; I will graduate in 2021. Am I eligible to apply?",
+        "answer": "Yep!"
+    },
+    {
+        "question": "I am an undergraduate student from [your location; any country, anywhere]. Am I eligible to apply?",
+        "answer": "Please do! Except, please note that Brown is on EST US time and many of our synchronous events will be in those working hours."
+    },
+    {
+        "question": "I am an undergraduate student from [any university or college institution, anywhere]. Am I eligible to apply?",
+        "answer": "Affirmative."
+    },
+    {
+        "question": "Is this program only for Brown University undergraduate students?",
+        "answer": "No; we like the rest of you too ; )"
+    },
+    {
+        "question": "Is this program only for underrepresented groups or [x] students?",
+        "answer": "The goal of the exploreCSR program is to support students from underrepresented groups to pursue graduate studies and research careers in computing <a href='https://research.google/outreach/explore-csr/'>(here)</a>. We will consider all applicants, but our focus is on this goal."
+    },
+    {
+        "question": "I am a masters or PhD student. Am I eligible to apply?",
+        "answer": "We're afraid not, no."
+    },
+    {
+        "question": "Are the applications first come, first serve?",
+        "answer": "No. We will consider all applications received by the deadline (January 1st, 2021) in one go."
+    },
+    {
+        "question": "The application form asks for a transcript. Should I wait to add my grades from this semester or should I submit without?",
+        "answer": "Our application deadline is January 1st, 2021&mdash;please submit what you have available by then. Please don't plan to email us an updated transcript later on."
+    },
+    {
+        "question": "I didn't receive a confirmation of my application. Can you confirm receipt?",
+        "answer": "It almost certainly went through. If you're worried, submit another one! We'll pick up the latest submitted on January 1st. No need to email us for this one."
+    }
+]
