@@ -42,5 +42,9 @@
     {
         "question": "I didn't receive a confirmation of my application. Can you confirm receipt?",
         "answer": "It almost certainly went through. If you're worried, submit another one! We'll pick up the latest submitted on January 1st. No need to email us for this one."
+    },
+    {
+        "question": "I submitted my form, but received the error: '(You can't respond to exploreCSR 2020-2021: Socially Responsible AI for Computational Creativity. Uploading files is not permitted when data loss prevention is enabled for your domain. Contact your domain administrator if you think this is a mistake.).' What should I do?",
+        "answer": "It looks like your institution does not support file uploads via Google Forms. You should be able to get around this by filling out the form while logged into to a personal (i.e. non-college-affiliated) Google account (you'd have one of these if you have a personal Gmail address, for instance)."
     }
 ]
