@@ -28,8 +28,16 @@
         "answer": "We're afraid not, no."
     },
     {
+        "question": "I'm a high school student. Am I eligible to apply?",
+        "answer": "Again, we're afraid not, no."
+    },
+    {
         "question": "I am on a gap year but will be starting soon/returning soon. Am I eligible to apply?",
         "answer": "Sorry, no."
+    },
+    {
+        "question": "I'm not an undergraduate student yet, but I know a lot!",
+        "answer": "I'm afraid we still won't take you, sorry."
     },
     {
         "question": "Are the applications first come, first serve?",
