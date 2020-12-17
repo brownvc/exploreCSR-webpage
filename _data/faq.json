@@ -48,6 +48,10 @@
         "answer": "Our application deadline is January 1st, 2021&mdash;please submit what you have available by then. Please don't email us a transcript, either now or later on; please just resubmit your application."
     },
     {
+        "question": "How much detail should I put into the questions on the form, e.g., about research interests? Are you looking for a 'research statement'?",
+        "answer": "Short and to the point, please! One paragraph is fine. We're not looking for a research statement; we'd just like to be able to match you to the right people and projects."
+    },
+    {
         "question": "I didn't receive a confirmation of my application. Can you confirm receipt?",
         "answer": "It almost certainly went through. If you're worried, submit another one! We'll pick up the latest submitted on January 1st. No need to email us for this one."
     },
