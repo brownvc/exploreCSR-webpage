@@ -10,6 +10,16 @@
         "link_target": "https://arxiv.org/abs/1806.02311"
     },
     {
+        "img": "zonegraphs",
+        "caption": "Students in Daniel Ritchie's lab trained a neural network to 'reverse engineer' CAD modeling sequences for 3D shapes.",
+        "link_target": "http://pwz.mit.edu/projects/ZG/"
+    },
+    {
+        "img": "roominoes",
+        "caption": "Students in Daniel Ritchie's lab built a system for creating new 3D floor plans by automatically recombining rooms from existing floor plans.",
+        "link_target": "https://www.youtube.com/watch?v=GBzpgLPP5VY&ab_channel=KaiWang"
+    },
+    {
         "img": "shapeassembly",
         "caption": "Students in Daniel Ritchie's lab trained a neural network to write programs that generate structured 3D shapes, such as chairs.",
         "link_target": "https://rkjones4.github.io/shapeAssembly.html"

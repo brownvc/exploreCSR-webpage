@@ -4,16 +4,12 @@
         "answer": "Yes!"
     },
     {
-        "question": "I am an undergraduate student in my final year; I will graduate in 2021. Am I eligible to apply?",
+        "question": "I am an undergraduate student in my final year; I will graduate in 2022. Am I eligible to apply?",
         "answer": "Yep!"
     },
     {
-        "question": "I am an undergraduate student from [your location; any country, anywhere]. Am I eligible to apply?",
-        "answer": "Please do! Except, please note that Brown is on EST US time and many of our synchronous events will be in those working hours."
-    },
-    {
-        "question": "I am an undergraduate student from [any university or college institution, anywhere]. Am I eligible to apply?",
-        "answer": "Affirmative."
+        "question": "I am an undergraduate student from [some university/college]. Am I eligible to apply?",
+        "answer": "You are eligible to apply if your college/university is located in one of the following states: Maryland, Delaware, Pennsylvania, New York, New Jersey, Rhode Island, Massachussetts, Connecticut, Vermont, New Hampshire, or Maine."
     },
     {
         "question": "Is this program only for Brown University undergraduate students?",
@@ -41,22 +37,22 @@
     },
     {
         "question": "Are the applications first come, first serve?",
-        "answer": "No. We will consider all applications received by the deadline (January 1st, 2021) in one go."
+        "answer": "No. We will consider all applications received by the deadline (December 1st, 2021) in one go."
     },
     {
         "question": "The application form asks for a transcript. Should I wait to add my grades from this semester or should I submit without?",
-        "answer": "Our application deadline is January 1st, 2021&mdash;please submit what you have available by then. Please don't email us a transcript, either now or later on; please just resubmit your application."
+        "answer": "Our application deadline is December 1st, 2021&mdash;please submit what you have available by then. Please don't email us a transcript, either now or later on; please just resubmit your application."
     },
     {
         "question": "How much detail should I put into the questions on the form, e.g., about research interests? Are you looking for a 'research statement'?",
-        "answer": "Short and to the point, please! One paragraph is fine. We're not looking for a research statement; we'd just like to be able to match you to the right people and projects."
+        "answer": "Short and to the point, please! One or two paragraphs is fine. We're not looking for a research statement; we'd just like to be able to match you to the right people and projects."
     },
     {
         "question": "I didn't receive a confirmation of my application. Can you confirm receipt?",
         "answer": "It almost certainly went through. If you're worried, submit another one! We'll pick up the latest submitted on January 1st. No need to email us for this one."
     },
     {
-        "question": "I submitted my form, but received the error: '(You can't respond to exploreCSR 2020-2021: Socially Responsible AI for Computational Creativity. Uploading files is not permitted when data loss prevention is enabled for your domain. Contact your domain administrator if you think this is a mistake.).' What should I do?",
+        "question": "I submitted my form, but received the error: '(You can't respond to exploreCSR 2021-2022: Socially Responsible AI for Computational Creativity. Uploading files is not permitted when data loss prevention is enabled for your domain. Contact your domain administrator if you think this is a mistake.).' What should I do?",
         "answer": "It looks like your institution does not support file uploads via Google Forms. You should be able to get around this by filling out the form while logged into to a personal (i.e. non-college-affiliated) Google account (you'd have one of these if you have a personal Gmail address, for instance)."
     }
 ]
