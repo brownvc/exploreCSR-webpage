@@ -23,5 +23,20 @@
         "img": "shapeassembly",
         "caption": "Students in Daniel Ritchie's lab trained a neural network to write programs that generate structured 3D shapes, such as chairs.",
         "link_target": "https://rkjones4.github.io/shapeAssembly.html"
+    },
+    {
+        "img": "humor",
+        "caption": "Students and collaborators of Srinath Sridhar built a method to learn how humans move.",
+        "link_target": "https://geometry.stanford.edu/projects/humor/"
+    },
+    {
+        "img": "pix2surf",
+        "caption": "Students and collaborators of Srinath Sridhar built a method to build high-quality models of objects from only a few images.",
+        "link_target": "https://geometry.stanford.edu/projects/pix2surf/"
+    },
+    {
+        "img": "draco",
+        "caption": "Students and collaborators of Srinath Sridhar lab built a method for learning to reconstruct objects in a canonical space enabling robots to find and manipulate them.",
+        "link_target": "https://aadilmehdis.github.io/DRACO-Project-Page/"
     }
 ]
