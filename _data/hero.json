@@ -38,5 +38,15 @@
         "img": "draco",
         "caption": "Students and collaborators of Srinath Sridhar lab built a method for learning to reconstruct objects in a canonical space enabling robots to find and manipulate them.",
         "link_target": "https://aadilmehdis.github.io/DRACO-Project-Page/"
+    },
+    {
+        "img": "videobert",
+        "caption": "Chen Sun and his students designed algorithms to illustrate sentences, anticipate future events, and learn visual commonsense, all by asking computers to watch videos on YouTube.",
+        "link_target": "https://ai.googleblog.com/2019/09/learning-cross-modal-temporal.html"
+    },
+    {
+        "img": "episodictransformer",
+        "caption": "Chen Sun and his students build agents that follow human instructions and perform highly compositional tasks.",
+        "link_target": "https://arxiv.org/abs/2105.06453"
     }
 ]
