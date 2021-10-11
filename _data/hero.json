@@ -5,11 +5,6 @@
         "link_target": "https://arxiv.org/abs/1811.12463"
     },
     {
-        "img": "attnguided",
-        "caption": "Students in James Tompkin's lab trained a neural network to transmogrify images of animals without altering the image background.",
-        "link_target": "https://arxiv.org/abs/1806.02311"
-    },
-    {
         "img": "zonegraphs",
         "caption": "Students in Daniel Ritchie's lab trained a neural network to 'reverse engineer' CAD modeling sequences for 3D shapes.",
         "link_target": "http://pwz.mit.edu/projects/ZG/"
@@ -23,6 +18,21 @@
         "img": "shapeassembly",
         "caption": "Students in Daniel Ritchie's lab trained a neural network to write programs that generate structured 3D shapes, such as chairs.",
         "link_target": "https://rkjones4.github.io/shapeAssembly.html"
+    },
+    {
+        "img": "attnguided",
+        "caption": "Students in James Tompkin's lab trained a neural network to transmogrify images of animals without altering the image background.",
+        "link_target": "https://arxiv.org/abs/1806.02311"
+    },
+    {
+        "img": "gaussigan",
+        "caption": "Students in James Tompkin's lab trained a neural network to automatically recover control rigs for animals to generate new posable imagery.",
+        "link_target": "https://visual.cs.brown.edu/gaussigan"
+    },
+    {
+        "img": "genhandwriting",
+        "caption": "Students in James Tompkin's lab created a neural generative model that can learn to write in your handwriting and represent all kinds of different styles.",
+        "link_target": "https://dsd.cs.brown.edu/"
     },
     {
         "img": "humor",
