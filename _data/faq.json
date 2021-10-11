@@ -12,6 +12,10 @@
         "answer": "You are eligible to apply if your college/university is located in one of the following states/territories: Washington DC, Maryland, Delaware, Pennsylvania, New York, New Jersey, Rhode Island, Massachussetts, Connecticut, Vermont, New Hampshire, or Maine."
     },
     {
+        "question": "I am an international student attending a US college/university in one of the states/territories listed above. Am I eligble to apply?",
+        "answer": "For sure!"
+    },
+    {
         "question": "Is this program only for Brown University undergraduate students?",
         "answer": "No; we like the rest of you too ; )"
     },
