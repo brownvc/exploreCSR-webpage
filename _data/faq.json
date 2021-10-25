@@ -9,7 +9,11 @@
     },
     {
         "question": "I am an undergraduate student from [some university/college]. Am I eligible to apply?",
-        "answer": "You are eligible to apply if your college/university is located in one of the following states/territories: Washington DC, Maryland, Delaware, Pennsylvania, New York, New Jersey, Rhode Island, Massachussetts, Connecticut, Vermont, New Hampshire, or Maine."
+        "answer": "You are eligible to apply if your college/university is located in one of the following states/territories: Washington DC, Virginia, Maryland, Delaware, Pennsylvania, New York, New Jersey, Rhode Island, Massachussetts, Connecticut, Vermont, New Hampshire, or Maine."
+    },
+    {
+        "question": "I am an international student attending a US college/university in one of the states/territories listed above. Am I eligble to apply?",
+        "answer": "For sure!"
     },
     {
         "question": "Is this program only for Brown University undergraduate students?",
@@ -46,6 +50,10 @@
     {
         "question": "The application form asks for a transcript. Should I wait to add my grades from this semester or should I submit without?",
         "answer": "Our application deadline is December 1st, 2021&mdash;please submit what you have available by then. Please don't email us a transcript, either now or later on; please just resubmit your application."
+    },
+    {
+        "question": "I am a first-year/freshperson undergraduate and I don't yet have a transcript. What should I do?",
+        "answer": "Please submit whatever you can through the upload form to give us some indication&mdash;we understand that it isn't simple for people in your position."
     },
     {
         "question": "How much detail should I put into the questions on the form, e.g., about research interests? Are you looking for a 'research statement'?",
