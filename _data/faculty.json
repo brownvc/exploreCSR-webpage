@@ -10,18 +10,13 @@
         "homepage": "https://dritchie.github.io"
     },
     {
-        "name": "Jeff Huang",
-        "photo_id": "jeff",
-        "homepage": "https://jeffhuang.com/"
+        "name": "Stefanie Tellex",
+        "photo_id": "stefanie",
+        "homepage": "https://cs.brown.edu/people/stellex/"
     },
     {
-        "name": "Chen Sun",
-        "photo_id": "chen",
-        "homepage": "https://chensun.me/"
-    },
-    {
-        "name": "Srinath Sridhar",
-        "photo_id": "srinath",
-        "homepage": "https://srinathsridhar.com"
+        "name": "Suresh Venkatasubramanian",
+        "photo_id": "suresh",
+        "homepage": "https://vivo.brown.edu/display/suresh"
     }
 ]
