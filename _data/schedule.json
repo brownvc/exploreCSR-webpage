@@ -21,7 +21,7 @@
     },
     {
         "date": "March",
-        "name": "Observe research comps proposal<br/>Graduate student Q&A panel"
+        "name": "Graduate student Q&A panel"
     },
     {
         "date": "April",
@@ -29,10 +29,6 @@
     },
     {
         "date": "May",
-        "name": "Observe comps defense<br/>Observe thesis defense"
-    },
-    {
-        "date": "May 5",
-        "name": "Participate in Brown CS Undergraduate Research Symposium"
+        "name": "Observe thesis defense<br/>Participate in Brown CS Undergraduate Research Symposium"
     }
 ]
