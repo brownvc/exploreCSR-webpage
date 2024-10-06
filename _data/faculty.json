@@ -1,22 +1,32 @@
 [
     {
-        "name": "James Tompkin",
-        "photo_id": "james",
-        "homepage": "http://jamestompkin.com/"
-    },
-    {
         "name": "Daniel Ritchie",
         "photo_id": "daniel",
         "homepage": "https://dritchie.github.io"
     },
     {
-        "name": "Stefanie Tellex",
-        "photo_id": "stefanie",
-        "homepage": "https://cs.brown.edu/people/stellex/"
+        "name": "James Tompkin",
+        "photo_id": "james",
+        "homepage": "http://jamestompkin.com/"
+    },
+    {
+        "name": "Ritambhara Singh",
+        "photo_id": "ritambhara",
+        "homepage": "https://ritambharasingh.com/"
     },
     {
         "name": "Suresh Venkatasubramanian",
         "photo_id": "suresh",
         "homepage": "https://vivo.brown.edu/display/suresh"
+    },
+    {
+        "name": "Srinath Sridhar",
+        "photo_id": "srinath",
+        "homepage": "https://cs.brown.edu/people/ssrinath/"
+    },
+    {
+        "name": "Randall Balestriero",
+        "photo_id": "randall",
+        "homepage": "https://randallbalestriero.github.io/"
     }
 ]
