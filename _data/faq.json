@@ -1,14 +1,14 @@
 [
     {
         "question": "I haven't heard back yet about the acceptance decisions; when will I hear?",
-        "answer": "We hope to send out decisions by mid January 2025."
+        "answer": "We hope to send out decisions by mid January 2026."
     },
     {
         "question": "I am an undergraduate student in my first/second/third/fourth year [pick as appropriate]. Am I eligible to apply?",
         "answer": "Yes!"
     },
     {
-        "question": "I am an undergraduate student in my final year; I will graduate in 2025. Am I eligible to apply?",
+        "question": "I am an undergraduate student in my final year; I will graduate in 2026. Am I eligible to apply?",
         "answer": "Yep!"
     },
     {
@@ -22,10 +22,6 @@
     {
         "question": "Is this program only for Brown University undergraduate students?",
         "answer": "No, it is actually specifically for non-Brown students. Students already at Brown have other ways to get involved in research with us."
-    },
-    {
-        "question": "Is this program only for underrepresented groups or [x] students?",
-        "answer": "The goal of the exploreCSR program is to support students from underrepresented groups to pursue graduate studies and research careers in computing <a href='https://research.google/outreach/explore-csr/'>(here)</a>. We will consider all applicants, but our focus is on this goal."
     },
     {
         "question": "I am a masters or PhD student. Am I eligible to apply?",
@@ -49,11 +45,11 @@
     },
     {
         "question": "Are the applications first come, first serve?",
-        "answer": "No. We will consider all applications received by the deadline (December 8, 2025) in one go."
+        "answer": "No. We will consider all applications received by the deadline (December 7, 2025) in one go."
     },
     {
         "question": "The application form asks for a transcript. Should I wait to add my grades from this semester or should I submit without?",
-        "answer": "Our application deadline is December 8, 2025&mdash;please submit what you have available by then. Please don't email us a transcript, either now or later on; please just resubmit your application."
+        "answer": "Our application deadline is December 7, 2025&mdash;please submit what you have available by then. Please don't email us a transcript, either now or later on; please just resubmit your application."
     },
     {
         "question": "I am a first-year/freshperson undergraduate and I don't yet have a transcript. What should I do?",
@@ -65,10 +61,10 @@
     },
     {
         "question": "I didn't receive a confirmation of my application. Can you confirm receipt?",
-        "answer": "It almost certainly went through. If you're worried, submit another one! We'll pick up the latest submitted before December 8. No need to email us for this one."
+        "answer": "It almost certainly went through. If you're worried, submit another one! We'll pick up the latest submitted before December 7. No need to email us for this one."
     },
     {
-        "question": "I submitted my form, but received the error: '(You can't respond to exploreCSR 2025: Socially Responsible Artificial Intelligence. Uploading files is not permitted when data loss prevention is enabled for your domain. Contact your domain administrator if you think this is a mistake.).' What should I do?",
+        "question": "I submitted my form, but received the error: '(You can't respond to exploreCSR 2026: Socially Responsible Artificial Intelligence. Uploading files is not permitted when data loss prevention is enabled for your domain. Contact your domain administrator if you think this is a mistake.).' What should I do?",
         "answer": "It looks like your institution does not support file uploads via Google Forms. You should be able to get around this by filling out the form while logged into to a personal (i.e. non-college-affiliated) Google account (you'd have one of these if you have a personal Gmail address, for instance)."
     }
 ]
